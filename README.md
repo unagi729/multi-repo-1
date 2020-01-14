@@ -16,3 +16,6 @@
 console.log('hello')
 ```
 
+百度的网站[点我](https://www.baidu.com)
+
+![一张图片](1.png)
